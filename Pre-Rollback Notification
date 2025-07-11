@@ -1,0 +1,17 @@
+Pre-Rollback Notification
+Subject: [ACTION REQUIRED] Scheduled Rollback of [Instance Name]
+
+Dear [Client Name],
+
+As discussed, we will be rolling back your ServiceNow instance ([Instance Name]) to its pre-upgrade state. This process will begin on:
+
+Date/Time: [Insert Date/Time]
+Downtime Window: ~6–10 hours
+Impact: Instance will be read-only during this time
+
+We will notify you once the rollback is complete and ready for your QA team to begin testing.
+
+Best regards,
+[Your Name]
+ServiceNow Team Lead
+
