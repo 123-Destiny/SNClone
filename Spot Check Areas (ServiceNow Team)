@@ -1,0 +1,8 @@
+Spot Check Areas (ServiceNow Team)
+Module/Area	Validation Item
+Core Platform	UI loads, Login works, ACLs intact
+Incident Management	Create, update, resolve records
+Change Management	Approval workflow, State transitions
+Integrations/API	Inbound/outbound API calls
+Custom Apps/Modules	Navigation, forms, data availability
+Notifications	Outbound emails triggered correctly
