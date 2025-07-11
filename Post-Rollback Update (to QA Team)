@@ -1,0 +1,16 @@
+Post-Rollback Update (to QA Team)
+Subject: Rollback Complete – Ready for Client QA
+
+Hi [Client Name],
+
+The rollback of your instance ([Instance Name]) to the pre-upgrade version is now complete. Our team has completed preliminary validation and the environment is now ready for your QA team to verify and test.
+
+Key Areas to Test:
+
+[Module 1]
+
+[Module 2]
+
+[Specific Known Issue, if applicable]
+
+Please notify us once validation is complete or if any discrepancies are identified.
